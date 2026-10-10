@@ -1,0 +1,2 @@
+# Learnscript
+To learn javascript
